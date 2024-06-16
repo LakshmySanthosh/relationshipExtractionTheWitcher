@@ -6,7 +6,7 @@ Using data scraped from the Witcher Wiki website with Selenium, we analyze the t
 
 For instance, have you ever noticed how central Geralt, Ciri, and Yennefer are to the story? The image below illustrates their prominence, as they appear as large nodes in the network graph. This is because they have the most relationships with other characters, highlighting their critical roles in the narrative.
 
-<img src="https://github.com/LakshmySanthosh/relationshipExtractionTheWitcher/assets/121610033/9afe6b0d-cc04-4d48-849e-05175c01c9ee" width="500"/>
+<img src="https://github.com/LakshmySanthosh/relationshipExtractionTheWitcher/assets/121610033/9afe6b0d-cc04-4d48-849e-05175c01c9ee" width="700"/>
 
 Who are the most important characters in The Witcher series? The bar graph below answers this question by ranking characters based on their connections and significance within the story.
 
@@ -14,4 +14,4 @@ Who are the most important characters in The Witcher series? The bar graph below
 
 What about the communities within the story? Do certain characters form distinct groups based on their interactions? By using NetworkX and community detection libraries, we create a community graph that shows clusters of characters who frequently interact with each other. This visualization offers insights into the social structure of The Witcher universe.
 
-![image](https://github.com/LakshmySanthosh/relationshipExtractionTheWitcher/assets/121610033/c4721ce4-54c2-467b-83ad-6df3eba4af52)
+<img src="https://github.com/LakshmySanthosh/relationshipExtractionTheWitcher/assets/121610033/c4721ce4-54c2-467b-83ad-6df3eba4af52" width="700"/>
