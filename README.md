@@ -15,3 +15,7 @@ Who are the most important characters in The Witcher series? The bar graph below
 What about the communities within the story? Do certain characters form distinct groups based on their interactions? By using NetworkX and community detection libraries, we create a community graph that shows clusters of characters who frequently interact with each other. This visualization offers insights into the social structure of The Witcher universe.
 
 <img src="https://github.com/LakshmySanthosh/relationshipExtractionTheWitcher/assets/121610033/c4721ce4-54c2-467b-83ad-6df3eba4af52" width="700"/>
+
+The final image illustrates the evolution of character importance throughout the book. This dynamic visualization helps in understanding how the focus on different characters shifts as the story progresses.
+
+![image](https://github.com/LakshmySanthosh/relationshipExtractionTheWitcher/assets/121610033/eb833f21-a7a2-447a-92a3-f984ca67e135)
